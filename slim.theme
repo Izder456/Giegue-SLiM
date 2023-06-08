@@ -1,0 +1,44 @@
+# Giegue SLiM Theme
+# izzy Meyer
+# izder456@disroot.org
+
+# messages (ie: shutdown, session options, etc)
+msg_color               #ebdbb2
+msg_font                GohuFont Nerd Font Mono:style=uni-14:size=10:bold:dpi=96
+msg_x                   50%
+msg_y                   70%
+
+# valid values: stretch, tile
+background_style        tile
+background_color        #282828
+
+# input box controls
+input_font          	GohuFont Nerd Font Mono:style=uni-14:size=10:bold:dpi=96
+input_fgcolor           #ebdbb2
+# panel location
+input_panel_x           50%
+input_panel_y           50%
+input_name_x            105
+input_name_y            213
+# force single input box (gdm style)
+input_pass_x            -1
+input_pass_y            -1
+input_color		#ebdbb2
+
+# username / password request (actual text)
+username_font          	GohuFont Nerd Font Mono:style=uni-14:size=10:bold:dpi=96
+username_color        	#ebdbb2
+username_x              55
+username_y              213
+password_color		#ebdbb2
+password_x              55
+password_y              213
+username_msg            USER:
+password_msg            PASS:
+
+# welcome message
+#welcome_x              	50%
+#welcome_y              	22
+#welcome_font          		GohuFont Nerd Font Mono:style=uni-14:size=10:bold:dpi=96
+#welcome_color          	#ebdbb2
+

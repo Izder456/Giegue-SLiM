@@ -1,4 +1,4 @@
-# Giegue Gruvbox SLiM Themw
+# Giegue Gruvbox SLiM Theme
 
 - Mainly for personal experimentation, but if ya wantem, use em.
 
